@@ -1,0 +1,22 @@
+{
+  "name": "telemetry-dco",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibm-telemetry/telemetry-dco.git"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ibm-telemetry/telemetry-dco/issues"
+  },
+  "homepage": "https://github.com/ibm-telemetry/telemetry-dco#readme",
+  "dependencies": {
+    "prettier-config-carbon": "^0.11.0"
+  }
+}
